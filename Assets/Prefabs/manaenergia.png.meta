@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: cb504bb7203355d4babc67aa69965000
+guid: cf4a83e6b9418e74e94636187155ce6a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1955448553306655712
-    second: Background_0
+      213: 1684493939521457838
+    second: manaenergia_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Background_0
+      name: manaenergia_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1920
-        height: 1080
+        x: 38
+        y: 53
+        width: 821
+        height: 841
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 024fa93b6e9dcd4e0800000000000000
-      internalID: -1955448553306655712
+      spriteID: eae897b2056806710800000000000000
+      internalID: 1684493939521457838
       vertices: []
       indices: 
       edges: []
